@@ -15,7 +15,7 @@ export const App: React.FC = () => {
         <TaskForm />
         <TaskList />
       </TaskServiceProvider>
-      <p className="description">A minimal React + InversifyJS app demonstrating DI.</p>
+      <p className="description">A minimal React + InversifyJS app.</p>
     </div>
   )
 }
